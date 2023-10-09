@@ -1,7 +1,7 @@
 Hi 👋 My name is AbdElrahman AbdAllah Gbr
 =========================================
 
-Frontend Web Developer (React.js)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=516&lines=%F0%9F%9A%80+Front-End+Alchemist+%7C+%E2%9C%A8+Crafting+Pixels;%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Code+Magician+%7C+%E2%98%95+Coffee+Wizard)](https://git.io/typing-svg)
 ---------------------------------
 
 🚀 Frontend magician 🧙‍♂️ with a passion for React.js and crafting dazzling, pixel-perfect web experiences. CSS sorcerer 🪄 with spells like SASS, Tailwind, Bootstrap, and Material-UI in my spellbook. I code with style, optimize like a ninja 🥋, and make websites sing 🎶
