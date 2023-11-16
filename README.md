@@ -12,7 +12,7 @@
 * 🌍  I'm based in Egypt
 * 🖥️  See my portfolio at [AbdElrahman Gbr](http://abdelrahman-gbr-portfolio.vercel.app/)
 * ✉️  You can contact me at [abdelrahman.gbr.os@gmail.com](mailto:abdelrahman.gbr.os@gmail.com)
-* 🚀  I'm currently working on [Naseej](http://www.naseej.com/)
+* 🚀  I'm currently working on [Digital Vibes](https://digitalvibesmarketing.com/)
 * 🧠  I'm learning Next.js
 * ⚡  When I'm not conjuring code, you'll find me in the virtual battlegrounds of League of Legends (LoL) and Fortnite 🎮, or diving into the tactical world of auto chess ♟️. Let's craft awesome web spells and embark on epic gaming quests together! 🌟
 
