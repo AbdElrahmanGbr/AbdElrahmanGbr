@@ -1,0 +1,98 @@
+{
+  "username": "AbdElrahmanGbr",
+  "name": "AbdElrahman Gbr",
+  "role": "Frontend & Full Stack Software Engineer",
+  "location": "Cairo, Egypt",
+  "languages": "JavaScript, TypeScript, PHP, Python, SQL",
+  "styling": "Tailwind CSS, CSS3, Sass, Framer Motion",
+  "tools": "Docker, CI/CD, Git, Keycloak, Odoo",
+  "databases": "PostgreSQL, MySQL, Firebase, Supabase",
+  "work": "Software Engineer @ Icreed",
+  "hobbies": "League of Legends, Fortnite, auto chess",
+  "email": "abdelrahman.gbr.os@gmail.com",
+  "portfolio": "abdelrahman-gbr.vercel.app",
+  "linkedin": "in/abdelrahmangbr",
+  "discord": "279880612955947009",
+  "portrait_crop": [
+    0.4,
+    0.278125,
+    0.58125,
+    0.5546875
+  ],
+  "portrait_outline": [
+    [
+      0.4703125,
+      0.284375
+    ],
+    [
+      0.509375,
+      0.2859375
+    ],
+    [
+      0.540625,
+      0.30625
+    ],
+    [
+      0.5546875,
+      0.3375
+    ],
+    [
+      0.559375,
+      0.428125
+    ],
+    [
+      0.5421875,
+      0.4671875
+    ],
+    [
+      0.559375,
+      0.4890625
+    ],
+    [
+      0.5828125,
+      0.5078125
+    ],
+    [
+      0.58125,
+      0.5546875
+    ],
+    [
+      0.4,
+      0.5546875
+    ],
+    [
+      0.4,
+      0.5125
+    ],
+    [
+      0.4296875,
+      0.4828125
+    ],
+    [
+      0.4328125,
+      0.4609375
+    ],
+    [
+      0.41875,
+      0.4296875
+    ],
+    [
+      0.4171875,
+      0.346875
+    ],
+    [
+      0.425,
+      0.315625
+    ],
+    [
+      0.44375,
+      0.296875
+    ]
+  ],
+  "experience": "4 years / production SaaS & dashboards",
+  "frontend": "React, Next.js, HTML5",
+  "state": "Redux Toolkit, Zustand, React Query",
+  "backend": "Laravel, Node.js, Ruby on Rails, REST APIs",
+  "realtime": "WebRTC, Socket.io, Supabase Realtime",
+  "spoken": "Arabic (Native), English (Fluent)"
+}
