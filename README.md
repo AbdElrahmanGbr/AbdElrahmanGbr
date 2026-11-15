@@ -1,6 +1,4 @@
 <picture>
-  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/profile-dark.svg">
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-dark.gif">
   <img src="./assets/profile-light.gif" width="1240" alt="AbdElrahman Gbr — Frontend and Full Stack Software Engineer in Cairo, Egypt. Four years building production SaaS and dashboards. Software Engineer at Icreed. ASCII portrait with animated tech stack, contact details and public GitHub statistics.">
 </picture>
@@ -16,6 +14,8 @@
 
 <details>
 <summary>Tech stack, experience & projects</summary>
+
+[View the static profile](./assets/profile-dark.svg).
 
 ```text
 AbdElrahman Gbr
